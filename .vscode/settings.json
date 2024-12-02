@@ -1,0 +1,4 @@
+{
+  "editor.defaultFormatter": "elixir-lsp.elixir-ls",
+  "editor.formatOnSave": true
+}
